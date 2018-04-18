@@ -1,0 +1,17 @@
+.classpath
+/target
+
+target/classes/com/pbn/kevin/kafka/ConsumerOld.class
+
+*.MF
+
+target/classes/META-INF/maven/com.kevin/Test/pom.properties
+
+.project
+
+target/classes/META-INF/MANIFEST.MF
+
+*.properties
+
+
+*.prefs

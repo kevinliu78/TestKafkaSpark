@@ -4,7 +4,7 @@
 		module="testkafkaspark-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20180417102105"
+		publication="20180418220435"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
