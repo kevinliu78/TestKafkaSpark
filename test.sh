@@ -1,0 +1,1 @@
+spark-submit --verbose --class com.pbn.pnm.JavaDirectKafkaWordCount --master local[2] /Users/kevin/Development/workspace/TestKafkaSpark/target/scala-2.11/hello_2.11-1.0.jar 192.168.16.179:9092 portal1
